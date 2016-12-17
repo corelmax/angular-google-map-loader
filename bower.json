@@ -1,0 +1,17 @@
+{
+  "name": "angular-google-map-loader",
+  "homepage": "https://github.com/corelmax/angular-google-map-loader",
+  "authors": [
+    "Anucha Petchagun <big@lensod.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
